@@ -24,7 +24,7 @@ This dataset is for ABC Multistate bank with following columns:
 - credit_card, used as input.
 - active_member, used as input.
 - estimated_salary, used as input.
-c- hurn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
+- churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
 
 
 Aim is to Predict the Customer Churn for ABC Bank.
