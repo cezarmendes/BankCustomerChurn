@@ -24,7 +24,7 @@ This dataset is for ABC Multistate bank with following columns:
 - credit_card, used as input.
 - active_member, used as input.
 - estimated_salary, used as input.
-c- hurn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
+- churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
 
 
 Aim is to Predict the Customer Churn for ABC Bank.
@@ -33,13 +33,13 @@ Aim is to Predict the Customer Churn for ABC Bank.
 
 
 ### Business Problem: Customer Churn Prediction and Retention
-What is the overall churn rate in the dataset?
-How does the churn rate vary by different customer demographics, such as gender and country?
-Are there any specific age groups more prone to churn?
-What is the average tenure of customers who churned compared to those who didn't?
-Do customers with higher credit scores tend to churn less?
-Is there a correlation between account balance and churn rate?
-Does the credit card status impact churn rate significantly?
+- What is the overall churn rate in the dataset?
+- How does the churn rate vary by different customer demographics, such as gender and country?
+- Are there any specific age groups more prone to churn?
+- What is the average tenure of customers who churned compared to those who didn't?
+- Do customers with higher credit scores tend to churn less?
+- Is there a correlation between account balance and churn rate?
+- Does the credit card status impact churn rate significantly?
 
 
 
